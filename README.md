@@ -2,7 +2,7 @@ First we are defining some required environment variables.
 
 The .env and docker-compose.yml are expected in the current working directory, 
 
-###.env
+### .env
 ```
 NEXTCLOUD_ADMIN_USER=admin
 NEXTCLOUD_ADMIN_PASSWORD=
